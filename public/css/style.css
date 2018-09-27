@@ -1,0 +1,52 @@
+body
+{
+	background-color: #754d00;
+}
+.container
+{
+	margin-right: auto;
+	margin-left: auto;
+	text-align: center;
+}
+.title
+{
+	font-size: 33px
+}
+.author
+{
+	font-size: 27px;
+}
+a:link    { color: #209781; text-decoration: none; }
+a:visited { color: #209781; }
+a:active  { color: #209781; }
+a:hover   { color: #E9B64A; }
+.newbook
+{
+	font-size: 26px;
+	margin-bottom: 30px;
+	border-bottom: 1px dashed #e9b64a;	
+	width: 300px;
+	margin-right: auto;
+	margin-left: auto;
+	text-align: center;
+}
+.buttons
+{
+	display: inline-block;
+	margin-right: auto;
+	margin-left: auto;
+	text-align: center;	
+}
+.book
+{
+	border-bottom: 1px dashed #e9b64a;
+	margin-top: 20px;
+	width: 250px;
+	margin-right: auto;
+	margin-left: auto;
+	text-align: center;
+}
+.edit
+{
+	font-size: 30px;
+}
